@@ -1,7 +1,7 @@
 # Cálculo de Métricas de Avaliação de Classificação
 
 ## 🎯 Descrição do Projeto
-Este projeto implementa o cálculo das principais métricas de avaliação para modelos de classificação de machine learning: Acurácia, Sensibilidade (Recall), Especificidade, Precisão e F-score. Parte do desafio de Avaliação de Modelos da Digital Innovation One (DIO).
+Este projeto implementa o cálculo das principais métricas de avaliação para modelos de classificação de machine learning: Acurácia, Sensibilidade (Recall), Especificidade, Precisão e F-score.
 
 ## 🚀 Tecnologias Utilizadas
 - Python 3.x
