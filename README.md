@@ -29,6 +29,12 @@ Parte do desafio de Cálculo de Métricas de Avaliação de Aprendizado
 | **Precisão** | VP / (VP + FP) | Confiabilidade das predições positivas |
 | **F-score** | 2 × (P × S) / (P + S) | Média harmônica de Precisão e Sensibilidade |
 
+## 🌟 **Sobre o Projeto:**
+
+Este é um projeto educacional focado em ensinar como calcular e interpretar métricas de avaliação de modelos de classificação. Perfeito para iniciantes em machine learning que querem entender como avaliar a performance dos seus modelos.
+
+O código é auto-contido em um único arquivo, tornando-o fácil de executar e entender!
+
 ## 🎯 Exemplo de Uso
 ```python
 confusion_matrix = {
@@ -38,11 +44,5 @@ confusion_matrix = {
     'FN': 5     # Falsos Negativos
 }
 
-metrics = calculate_metrics(confusion_matrix)
+metrics = calculate_metrics(confusion_matrix) 
 # Resultados: Acurácia=92.68%, Sensibilidade=95.24%, etc.
-
-## 🌟 **Sobre o Projeto:**
-
-Este é um projeto educacional focado em ensinar como calcular e interpretar métricas de avaliação de modelos de classificação. Perfeito para iniciantes em machine learning que querem entender como avaliar a performance dos seus modelos.
-
-O código é auto-contido em um único arquivo, tornando-o fácil de executar e entender!
